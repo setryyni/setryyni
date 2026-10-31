@@ -1,14 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=31&fontColor=8DBA8E&fontAlignY=70&animation=fadeIn" alt="Welcome to My GitHub Universe" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8DBA8E&height=1&section=header" width="100%" alt="Green divider" />
+</div>
 
 <p align="center">
   <img src="388e5edc6db571948f74c2c7cd941eb6.gif" width="100%" alt="Sua Alien Stage">
 </p>
 
-<p align="center">
-  <a href="https://spotify.com">
-    <img src="https://vercel.app" alt="Spotify Now Playing" width="350">
-  </a>
-</p>
+
 
 
 <!--
