@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="388e5edc6db571948f74c2c7cd941eb6.gif" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover;" alt="Sua Alien Stage">
+  <img src="388e5edc6db571948f74c2c7cd941eb6.gif" width="100%" alt="Sua Alien Stage">
 </p>
 
 
