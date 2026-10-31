@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Coffee Hello](Coffee%20Hello%20GIF%20by%20BREAD%20TREE%20-%20Find%20%26%20Share%20on%20GIPHY.gif)
+<p align="center">
+  <img src="Coffee Hello GIF by BREAD TREE - Find %26 Share on GIPHY.gif" width="100%" alt="Coffee Hello">
+</p>
 
 <!--
 **setryyni/setryyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
